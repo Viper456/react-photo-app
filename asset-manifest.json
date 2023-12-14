@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/viper456.github.io/react-photo-app/static/css/main.b220ed02.css",
+    "main.js": "/viper456.github.io/react-photo-app/static/js/main.63b40c2d.js",
+    "index.html": "/viper456.github.io/react-photo-app/index.html",
+    "main.b220ed02.css.map": "/viper456.github.io/react-photo-app/static/css/main.b220ed02.css.map",
+    "main.63b40c2d.js.map": "/viper456.github.io/react-photo-app/static/js/main.63b40c2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b220ed02.css",
+    "static/js/main.63b40c2d.js"
+  ]
+}
