@@ -2,6 +2,7 @@
   "name": "react-photo-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "viper456.github.io/react-photo-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
